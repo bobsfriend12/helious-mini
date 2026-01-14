@@ -2,9 +2,9 @@
 
 I designed this macropad to be used with my ETC Nomad to program lights. You can configure the QMK firmware to be any eos key you need by looking up the keyboard shortcut.
 
-![The CAD for the case]("IMG/cad.png")
-![The PCB]("IMG/pcb.png")
-![The Schematic]("IMG/schematic.png")
+![The CAD for the case]("/IMG/cad.png")
+![The PCB]("/IMG/pcb.png")
+![The Schematic]("/IMG/schematic.png")
 
 ## BOM
 
