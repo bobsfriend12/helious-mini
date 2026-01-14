@@ -1,0 +1,15 @@
+{
+    "encoder": {
+        "enabled": true,
+        "rotary": [{ "pin_a": "GP26", "pin_b": "GP27", "resolution": 4 }]
+    },
+    "backlight": {
+        "driver": "software",
+        "default": {
+            "on": true,
+            "breathing": false,
+            "brightness": 18
+        },
+        "pin": "GP28"
+    }
+}
